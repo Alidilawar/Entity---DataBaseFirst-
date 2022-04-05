@@ -1,0 +1,10 @@
+D:\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\DataBaseFirstDemo.exe.config
+D:\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\DataBaseFirstDemo.exe
+D:\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\DataBaseFirstDemo.pdb
+D:\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\EntityFramework.dll
+D:\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\EntityFramework.xml
+D:\DataBaseFirstDemo\DataBaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\DataBaseFirstDemo\DataBaseFirstDemo\obj\Debug\DataBaseFirstDemo.csprojResolveAssemblyReference.cache
+D:\DataBaseFirstDemo\DataBaseFirstDemo\obj\Debug\DataBaseFirstDemo.exe
+D:\DataBaseFirstDemo\DataBaseFirstDemo\obj\Debug\DataBaseFirstDemo.pdb
